@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+venv/
+.env
+reporte_simulacion.txt
+informe_tecnico.docx
